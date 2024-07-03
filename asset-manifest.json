@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Celebal_Week_5_Spotify_Clone/static/css/main.073c9b0a.css",
+    "main.js": "/Celebal_Week_5_Spotify_Clone/static/js/main.9ca1cf32.js",
+    "static/js/787.ab9f064c.chunk.js": "/Celebal_Week_5_Spotify_Clone/static/js/787.ab9f064c.chunk.js",
+    "index.html": "/Celebal_Week_5_Spotify_Clone/index.html",
+    "main.073c9b0a.css.map": "/Celebal_Week_5_Spotify_Clone/static/css/main.073c9b0a.css.map",
+    "main.9ca1cf32.js.map": "/Celebal_Week_5_Spotify_Clone/static/js/main.9ca1cf32.js.map",
+    "787.ab9f064c.chunk.js.map": "/Celebal_Week_5_Spotify_Clone/static/js/787.ab9f064c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ca1cf32.js"
+  ]
+}
